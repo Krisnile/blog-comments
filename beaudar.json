@@ -2,6 +2,7 @@
   "origins": [
     "https://...",
     "http://localhost:4000",
-    "http://www.krisnile.site"
+    "http://www.krisnile.site",
+    "https://www.krisnile.site"
   ]
 }
